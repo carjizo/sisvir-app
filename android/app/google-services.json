@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269281027097",
+    "project_id": "dev-sensordataservice-v1-54a63",
+    "storage_bucket": "dev-sensordataservice-v1-54a63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269281027097:android:6994c9e4e7526bdcb83688",
+        "android_client_info": {
+          "package_name": "com.sisvir.sensordataservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcxR6M5ajjX0n33e-NTSDqXPJuYk426Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

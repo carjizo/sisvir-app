@@ -1,0 +1,2 @@
+/home/carjiso/Documents/projects_flutter/Sisvir_Flutter_App-master/android/app/.cxx/RelWithDebInfo/5mf5m6n1/x86_64/CMakeFiles/edit_cache.dir
+/home/carjiso/Documents/projects_flutter/Sisvir_Flutter_App-master/android/app/.cxx/RelWithDebInfo/5mf5m6n1/x86_64/CMakeFiles/rebuild_cache.dir

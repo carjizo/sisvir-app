@@ -1,0 +1,1 @@
+/home/carjiso/Documents/projects_flutter/Sisvir_Flutter_App-master/build/app/intermediates/cxx/RelWithDebInfo/5mf5m6n1/obj/arm64-v8a
